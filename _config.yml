@@ -1,0 +1,14 @@
+layout_spectrum: 0.5546158466022462
+typography_spectrum: 0.6677764649502933
+color:
+  brandStrength: 0.052640980342403054
+  lightness: 0.058694647857919335
+  saturation: 0.11050208914093673
+  rhythmicContrast: 0.13086469937115908
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: thisnow3
